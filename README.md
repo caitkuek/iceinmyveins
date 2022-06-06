@@ -47,9 +47,11 @@ The most difficult part of the project was working aroudnd with the API. The API
 For example, the for the player's basic information such as name, position and team this was retrieved separately from their season averages.
 
 Inside Players.jsx:
+
 <img width="730" alt="image" src="https://user-images.githubusercontent.com/103879314/172081635-926cca9c-94c5-450a-b780-9d49e0243a9f.png">
 
 Inside PlayersDetail.jsx:
+
 <img width="709" alt="image" src="https://user-images.githubusercontent.com/103879314/172081704-eedd4dc1-4941-439f-92e3-d68c4cf0ee97.png">
 
 many fetches
